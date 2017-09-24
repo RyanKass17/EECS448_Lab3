@@ -1,0 +1,15 @@
+body
+{
+  color: #FF4500;
+  font-size: 20pt;
+  background-color: #FFE4E1;
+}
+a
+{
+  color: blue;
+  background-color: #DDA0DD;
+}
+a:hover
+{
+  color: lightblue;
+}
