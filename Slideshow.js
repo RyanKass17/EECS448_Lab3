@@ -1,3 +1,9 @@
+/**
+*	@file Slideshow.js
+*	@author Ryan Kass
+*	@date 9/26/17
+*	@brief functions for slide show
+*/
 function previous()
 {
   var imgTag = document.getElementById("imgId");

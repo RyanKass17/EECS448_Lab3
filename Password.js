@@ -1,3 +1,9 @@
+/**
+*	@file Password.js
+*	@author Ryan Kass
+*	@date 9/26/17
+*	@brief functions for password
+*/
 function password(password1,password2)
 {
   if(password1 == null || password1 == "" || password1.length < 8)
