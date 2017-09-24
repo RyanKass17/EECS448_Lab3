@@ -1,0 +1,36 @@
+body
+{
+  background-image: url(https://www.warnerbros.com/archive/spacejam/movie/img/p-jamlogo.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-color: blue;
+}
+p.name
+{
+  background-color: pink;
+}
+
+p.bio
+{
+  color: white;
+  background-color: black;
+  font-family: arial;
+  font-size: 22pt;
+}
+
+p.links
+{
+  color: lightblue;
+  background-color: black;
+}
+
+a.links
+{
+  color: lightblue;
+  background-color: black;
+}
+
+a.links:hover
+{
+  color: blue;
+}
