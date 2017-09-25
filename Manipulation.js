@@ -1,3 +1,9 @@
+/**
+*	@file Manipulation.js
+*	@author Ryan Kass
+*	@date 9/26/17
+*	@brief functions for Manipulation exercise
+*/
 function change()
 {
   var paraTag = document.getElementById('theParagraph');
